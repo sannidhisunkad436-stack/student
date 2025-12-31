@@ -27,7 +27,7 @@ if __name__ == "__main__":
     print("=== Student Result Program ===")
 
     try:
-        if len(sys.argv) == 6:
+        if len(sys.argv) == 7:
             name = sys.argv[1]
             dept = sys.argv[2]
             semester = sys.argv[3]
