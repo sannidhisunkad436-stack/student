@@ -3,7 +3,7 @@ import pytest
 from grade import get_student_result
 
 def test_student_grade_A():
-    name = "sannidhi"
+    name = "sankarshan"
     dept = "BCA"
     semester = "3"
     m1 = 85
@@ -11,7 +11,7 @@ def test_student_grade_A():
     m3 = 90
 
     expected_output = (
-        "Name: sannidhi, Department: BCA, Semester: 3, "
+        "Name: sankarshan, Department: BCA, Semester: 3, "
         "Average: 85.00, Grade: A"
     )
 
