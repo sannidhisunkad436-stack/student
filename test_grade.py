@@ -11,7 +11,7 @@ def test_student_grade_A():
     m3 = 90
 
     expected_output = (
-        "Name: Anu, Department: BCA, Semester: 3, "
+        "Name: sannidhi, Department: BCA, Semester: 3, "
         "Average: 85.00, Grade: A"
     )
 
